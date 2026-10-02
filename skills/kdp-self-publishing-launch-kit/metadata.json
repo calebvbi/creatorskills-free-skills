@@ -1,0 +1,17 @@
+{
+  "name": "KDP Self-Publishing Launch Kit",
+  "slug": "kdp-self-publishing-launch-kit",
+  "description": "Plan, research, and launch a Kindle Direct Publishing book — from niche validation to cover brief to launch week marketing calendar.",
+  "seoDescription": "Validate a book niche, research keywords, outline your manuscript, create metadata, and build a launch marketing calendar for Amazon KDP — all with AI.",
+  "long_description": "Most self-published books never sell more than 100 copies. And the ones that do sell usually succeed for one reason: they were launched, not just uploaded.\n\nThis skill takes you from book idea to published product with a complete launch workflow built for Amazon KDP. It's not a writing coach (though it helps with outlines). It's a launch planner that treats a book like the product it is: researched, positioned, packaged, and promoted.\n\nWhat you get:\n- Niche validation: keyword research framework, competitive analysis of top 10 books in your category, demand signals, and estimated search volume\n- Metadata optimization: title, subtitle, 7 backend keywords, and 2 book description variants (short for browse pages, long for the detail page)\n- Chapter outline with reader psychology: what someone needs to believe after each chapter to keep reading\n- Cover design brief with genre conventions, dimensions, typography rules, and a designer-ready spec sheet\n- Launch calendar: 21-day book launch plan with pre-launch, launch week, and post-launch activations\n- AMS ad starter framework: how to set up your first Amazon ad campaign with suggested keywords and bidding strategy\n- Pricing strategy: how to price for category rank vs. revenue per sale\n\nPerfect for creators who have expertise worth publishing but don't know the self-publishing game. Turns months of trial-and-error into a repeatable launch system.",
+  "category": "PRODUCT_CREATION",
+  "platforms": ["CLAUDE", "CHATGPT", "UNIVERSAL"],
+  "price": 0,
+  "currency": "USD",
+  "tags": ["self-publishing", "kdp", "book-launch", "amazon", "ebook", "writing"],
+  "complexity": "standard",
+  "files_included": ["SKILL.md", "README.md", "EXAMPLE.md"],
+  "author": "CreatorSkills",
+  "version": "1.0.0",
+  "thumbnail": "/images/skills/cs-product-creation-thumb-kdp-self-publishing-launch-kit-v1.jpg"
+}

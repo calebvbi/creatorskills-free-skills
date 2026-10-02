@@ -1,0 +1,17 @@
+{
+  "name": "Creator Productivity Second Brain",
+  "slug": "creator-productivity-second-brain",
+  "description": "Build a personal productivity system for creators — goal tracking, project management, time blocking, and content planning in one connected workspace.",
+  "seoDescription": "Build a second brain system designed for creators: goal tracking, quarterly planning, time blocking, content pipelines, and project management all in one connected workspace.",
+  "long_description": "Build a productivity system shaped around how creators actually work — cyclical, not task-by-task: a connected goal ladder, a content calendar that prevents double-booking, time blocks tuned to creative energy, and a weekly reset ritual. It's not about doing more; it's about knowing what's actually happening in your creator business and what you're supposed to be doing today.\n\nThat matters because most productivity systems assume discrete tasks with clean start and end dates, while creator work overlaps across platforms — brand deadlines drop in randomly and ideas show up at 2am.\n\nWhat you get:\n- Connected goal system: annual vision broken into quarterly goals, then monthly projects, then weekly tasks — with explicit links between layers\n- Content calendar integration: your publishing schedule, content pipeline, and project deadlines in one view so you stop double-booking yourself\n- Time-blocking templates designed for creative energy (not factory output): deep work blocks for production, admin blocks for replies and paperwork, and buffer for the unexpected\n- Weekly review and reset ritual: a structured way to process what happened, adjust priorities, and plan the next 7 days\n- Capture system for ideas: how to log content ideas, brand opportunities, and personal projects without losing them or letting them derail your current plan\n- Energy audit: a framework to identify which creator activities energize vs. drain you so you can structure your week around sustainable output\n- Quarterly reflection template: what to measure, what to stop doing, and what to invest more in next quarter\n\nThis system works in Notion, Obsidian, or pen-and-paper — the skill outputs the structure and methodology, not a locked-in tool.\n\nFree to try. Perfect for creators managing multiple income streams who are tired of feeling behind even when they're working constantly.",
+  "category": "SCRIPTS_OUTLINES",
+  "platforms": ["CLAUDE", "CHATGPT", "UNIVERSAL"],
+  "price": 0,
+  "currency": "USD",
+  "tags": ["productivity", "second-brain", "goal-tracking", "time-management", "planning", "workflow"],
+  "complexity": "advanced",
+  "files_included": ["SKILL.md", "README.md", "EXAMPLE.md"],
+  "author": "CreatorSkills",
+  "version": "1.0.0",
+  "thumbnail": "/images/skills/cs-product-thumb-creator-productivity-second-brain-v1.jpg"
+}

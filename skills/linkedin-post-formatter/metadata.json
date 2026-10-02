@@ -1,0 +1,34 @@
+{
+  "name": "LinkedIn Post Formatter",
+  "slug": "linkedin-post-formatter",
+  "description": "Turn rough ideas into polished LinkedIn posts with stronger hooks, cleaner structure, and engagement-ready CTAs.",
+  "seoTitle": "AI LinkedIn Post Generator and Formatter",
+  "seoDescription": "Free AI LinkedIn post generator for creators and freelancers. Format rough notes into publish-ready posts with better hooks and engagement prompts.",
+  "long_description": "If your LinkedIn ideas are good but your drafts feel messy, this skill fixes that. It turns rough thoughts into structured post drafts with strong opening lines, scannable formatting, and natural comment CTAs. You get two post styles per topic, plus extra hooks so you can test different angles quickly.\n\nPerfect for: Creators building authority on LinkedIn, freelancers using LinkedIn for inbound leads, and operators who post lessons from real work but struggle to make them readable.",
+  "category": "COMMUNITY_ENGAGEMENT",
+  "platforms": [
+    "CLAUDE",
+    "CHATGPT",
+    "UNIVERSAL"
+  ],
+  "price": 0,
+  "currency": "USD",
+  "tags": [
+    "linkedin",
+    "post-template",
+    "personal-brand",
+    "engagement",
+    "free"
+  ],
+  "complexity": "simple",
+  "files_included": [
+    "SKILL.md",
+    "README.md",
+    "EXAMPLE.md",
+    "metadata.json"
+  ],
+  "emailGate": true,
+  "author": "CreatorSkills",
+  "version": "1.0.0",
+  "thumbnail": "https://ekecjszbnzjpsmlylthm.supabase.co/storage/v1/object/public/thumbnails/skills/cs-community-thumb-linkedin-post-formatter-v1.jpg"
+}

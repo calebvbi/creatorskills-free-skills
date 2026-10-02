@@ -1,0 +1,36 @@
+{
+  "name": "Newsletter Subscriber Growth Engine",
+  "slug": "newsletter-subscriber-growth-engine",
+  "description": "Break through the friends-and-family plateau. Five tools to diagnose your growth blockers, build a lead magnet, convert followers to subscribers, land cross-promos, and write a welcome email that actually retains people.",
+  "seoDescription": "Stuck under 500 newsletter subscribers? This free AI skill diagnoses your growth blockers and gives you lead magnet ideas, social CTAs, cross-promo pitches, and a welcome email that converts.",
+  "long_description": "Every newsletter starts with an enthusiastic send to 87 people you already know. Then it stalls.\n\nMost newsletter writers hit 200 subscribers and stop growing. Not because their writing is bad — because nobody gave them a system for finding new readers. They post \"link in bio\" and hope. They write a lead magnet called \"10 tips\" that nobody downloads. They send a welcome email that says \"Thanks for subscribing!\" and wonder why people unsubscribe after two issues.\n\nThis free skill is the growth side of your email strategy. It's five tools built for newsletter writers under 500 subscribers who want to reach 1,000+ without paid ads.\n\n**Growth Audit Diagnostic** pinpoints your top three growth blockers in order of impact — so you fix the thing that's actually holding you back, not the thing that feels easiest to fix.\n\n**Lead Magnet Concept Generator** produces five specific lead magnet ideas with conversion impact estimates and build times, then picks the strongest one for your specific audience.\n\n**Social → Subscriber Conversion Prompts** gives you platform-native CTAs for Twitter/X, LinkedIn, Instagram, and TikTok that don't read like marketing copy.\n\n**Cross-Promotion Pitch Template** writes the cold email you send to a peer creator for a newsletter swap — with exactly what to include, what to leave out, and how to measure whether it worked.\n\n**Welcome Sequence First-Impression Optimizer** audits your existing welcome email or writes one from scratch — because the first 90 seconds of a subscriber relationship determines whether they stay for a year or unsubscribe in a week.\n\nThis is the top of the funnel. Once you have subscribers coming in consistently, the Newsletter Conversion Engine ($7) handles the conversion side: turning subscribers into buyers with welcome sequences, monetization frameworks, and subject lines built to earn the open.",
+  "category": "EMAIL_NEWSLETTER",
+  "platforms": [
+    "CLAUDE",
+    "CHATGPT"
+  ],
+  "price": 0,
+  "currency": "USD",
+  "tags": [
+    "newsletter",
+    "email",
+    "subscriber growth",
+    "beehiiv",
+    "substack",
+    "lead magnet",
+    "free"
+  ],
+  "complexity": "standard",
+  "difficulty": "beginner",
+  "estimated_time": "10 minutes",
+  "files_included": [
+    "SKILL.md",
+    "README.md",
+    "EXAMPLE.md",
+    "metadata.json"
+  ],
+  "external_costs": [],
+  "author": "CreatorSkills",
+  "version": "1.0.0",
+  "thumbnail": "/images/skills/cs-email-thumb-newsletter-subscriber-growth-engine-v1.jpg"
+}

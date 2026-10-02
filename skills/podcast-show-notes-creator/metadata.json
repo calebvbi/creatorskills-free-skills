@@ -1,0 +1,32 @@
+{
+  "name": "Podcast Show Notes Creator",
+  "slug": "podcast-show-notes-creator",
+  "description": "Drop in your transcript or outline and get SEO-optimized show notes, timestamps, key quotes, and social captions — all done.",
+  "seoTitle": "AI Podcast Show Notes Creator",
+  "seoDescription": "Drop in your transcript or outline and get SEO-optimized show notes, timestamps, key quotes, and social captions — done in minutes, not hours.",
+  "long_description": "Writing show notes feels like a chore so most podcasters either skip them or write something generic. That's a mistake — good show notes are free SEO and the thing that convinces new listeners to press play. This skill turns your transcript, outline, or rough notes into complete show notes: episode summary, timestamped chapters, key quotes, guest bio, resource list, and 3 platform-specific social captions. Takes 2 minutes instead of 45.",
+  "category": "SCRIPTS_OUTLINES",
+  "platforms": [
+    "CLAUDE",
+    "CHATGPT",
+    "UNIVERSAL"
+  ],
+  "price": 0,
+  "currency": "USD",
+  "tags": [
+    "podcast",
+    "show-notes",
+    "seo",
+    "timestamps",
+    "content-creation"
+  ],
+  "complexity": "simple",
+  "files_included": [
+    "SKILL.md",
+    "README.md",
+    "EXAMPLE.md"
+  ],
+  "author": "CreatorSkills",
+  "version": "1.0.0",
+  "thumbnail": "/images/skills/cs-scripts-thumb-podcast-show-notes-creator-v1.jpg"
+}

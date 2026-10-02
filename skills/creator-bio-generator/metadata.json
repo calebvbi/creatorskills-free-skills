@@ -1,0 +1,36 @@
+{
+  "name": "Creator Bio Generator",
+  "slug": "creator-bio-generator",
+  "description": "Stop sounding like everyone else. Get platform-optimized bios for YouTube, Instagram, TikTok, Twitter, and LinkedIn — all from a single input.",
+  "seoDescription": "Get platform-optimized bios for YouTube, Instagram, TikTok, Twitter, and LinkedIn from a single input. Stop sounding generic — free AI skill.",
+  "long_description": "Your bio is the first thing a potential follower reads before they decide if you're worth their time. This skill turns Claude or ChatGPT into a creator branding specialist that writes custom bios for every platform you use — each one respecting character limits, platform conventions, and your actual voice. Give it your niche, credentials, and vibe once, and get a complete bio suite that sounds like a real person, not a marketing template. Includes Instagram (150 chars), TikTok (80 chars), Twitter/X (160 chars), LinkedIn headline + summary, and a full YouTube About section.",
+  "category": "COMMUNITY_ENGAGEMENT",
+  "platforms": [
+    "CLAUDE",
+    "CHATGPT",
+    "UNIVERSAL"
+  ],
+  "price": 0,
+  "currency": "USD",
+  "tags": [
+    "bio",
+    "instagram",
+    "youtube",
+    "tiktok",
+    "twitter",
+    "linkedin",
+    "profile",
+    "about-me",
+    "free"
+  ],
+  "complexity": "standard",
+  "files_included": [
+    "SKILL.md",
+    "README.md",
+    "EXAMPLE.md"
+  ],
+  "external_costs": [],
+  "author": "CreatorSkills",
+  "version": "1.0.0",
+  "thumbnail": "/images/skills/cs-other-thumb-creator-bio-v1.png"
+}

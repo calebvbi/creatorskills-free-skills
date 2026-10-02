@@ -1,0 +1,32 @@
+{
+  "name": "Email Subject Line Optimizer",
+  "slug": "email-subject-line-optimizer",
+  "description": "Generate 5 high-converting email subject lines instantly — built for newsletters and creator announcements that earn the open.",
+  "seoTitle": "AI Email Subject Line Generator",
+  "seoDescription": "Generate 5 high-converting email subject lines instantly for newsletters and creator announcements. Each one uses a named subject-line formula.",
+  "long_description": "Stop guessing which subject line will get clicks. Paste your email topic and this skill returns 5 ready-to-use subject lines, each built on a different psychological approach — curiosity, benefit-driven, urgency, personal, and question-based. Every option includes an archetype label and a recommendation so you can send with confidence.",
+  "category": "EMAIL_NEWSLETTER",
+  "platforms": [
+    "CLAUDE",
+    "CHATGPT",
+    "UNIVERSAL"
+  ],
+  "price": 0,
+  "currency": "USD",
+  "tags": [
+    "email",
+    "subject-lines",
+    "open-rates",
+    "newsletter",
+    "copywriting"
+  ],
+  "complexity": "simple",
+  "files_included": [
+    "SKILL.md",
+    "README.md",
+    "EXAMPLE.md"
+  ],
+  "author": "CreatorSkills",
+  "version": "1.0.0",
+  "thumbnail": "/images/skills/cs-community-thumb-email-subject-line-optimizer-v1.jpg"
+}

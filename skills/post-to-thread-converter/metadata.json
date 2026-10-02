@@ -1,0 +1,35 @@
+{
+  "name": "Post-to-Thread Converter",
+  "slug": "post-to-thread-converter",
+  "description": "Turn any blog post, newsletter, or brain dump into a Twitter thread and LinkedIn post — in the time it takes to ask.",
+  "seoTitle": "AI Post-to-Twitter Thread Converter",
+  "seoDescription": "Turn any blog post, newsletter, or brain dump into a Twitter thread and LinkedIn post instantly. Free AI repurposing skill for content creators.",
+  "long_description": "You wrote the thing. Now make it work everywhere. This skill takes any long-form content — blog posts, YouTube transcripts, newsletters, even rough notes — and turns it into a properly structured Twitter/X thread and a LinkedIn post that actually sounds like you. The Twitter thread is built tweet-by-tweet with a real hook, not a list of tips. The LinkedIn post opens with a scroll-stopper and reads like a real person, not a press release. Two formats, one input, ready to post.",
+  "category": "CONTENT_REPURPOSING",
+  "platforms": [
+    "CLAUDE",
+    "CHATGPT",
+    "UNIVERSAL"
+  ],
+  "price": 0,
+  "currency": "USD",
+  "tags": [
+    "threads",
+    "twitter",
+    "linkedin",
+    "repurposing",
+    "social-media",
+    "content-repurposing",
+    "free"
+  ],
+  "complexity": "standard",
+  "files_included": [
+    "SKILL.md",
+    "README.md",
+    "EXAMPLE.md"
+  ],
+  "external_costs": [],
+  "author": "CreatorSkills",
+  "version": "1.0.0",
+  "thumbnail": "/images/skills/cs-repurposing-thumb-post-to-thread-converter-v1.jpg"
+}

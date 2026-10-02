@@ -1,0 +1,34 @@
+{
+  "name": "Blog Post Outline Generator",
+  "slug": "blog-post-outline-generator",
+  "description": "Turn a rough topic into a structured blog outline with titles, H2/H3 flow, proof ideas, and CTAs — ready to draft in minutes.",
+  "seoTitle": "AI Blog Outline Generator for Creators",
+  "seoDescription": "Free AI blog outline generator. Build better blog structures with intent mapping, H2/H3 plans, and CTA blocks for creator content.",
+  "long_description": "Skip the blank page and start with structure. This free skill turns a topic or keyword into a complete blog outline you can draft from immediately — title options, H2/H3 sections, proof ideas, internal link anchors, and CTA direction.\n\nPerfect for: Newsletter writers expanding into SEO content, freelancers who need faster content planning, and any creator who knows their topic but keeps delaying the draft because the structure feels unclear. Paste your keyword and audience. Get a full outline in minutes, then write section by section without overthinking.",
+  "category": "SCRIPTS_OUTLINES",
+  "platforms": [
+    "CLAUDE",
+    "CHATGPT",
+    "UNIVERSAL"
+  ],
+  "price": 0,
+  "currency": "USD",
+  "tags": [
+    "blog",
+    "outline",
+    "seo",
+    "content-strategy",
+    "free"
+  ],
+  "complexity": "simple",
+  "files_included": [
+    "SKILL.md",
+    "README.md",
+    "EXAMPLE.md",
+    "metadata.json"
+  ],
+  "emailGate": true,
+  "author": "CreatorSkills",
+  "version": "1.0.0",
+  "thumbnail": "https://ekecjszbnzjpsmlylthm.supabase.co/storage/v1/object/public/thumbnails/skills/cs-scripts-thumb-blog-post-outline-generator-v1.jpg"
+}
